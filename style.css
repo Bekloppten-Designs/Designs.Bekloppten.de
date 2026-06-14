@@ -1,0 +1,57 @@
+body {
+    background-color: #1a1a1a;
+    color: #f0f0f0;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 0;
+    text-decoration: none !important;
+    margin-right: 30px;
+    margin-left: 30px;
+    padding-left: 30px;
+    padding-right: 30px;
+    font-size: 25px;
+   
+  background: radial-gradient(circle at 20% 20%, #1a1a2e, #000000 70%);
+
+} .center {
+    display: flex;
+    justify-content: center;
+}
+
+a {
+    color: rgb(196, 194, 194);
+}
+
+.text {
+    align-items: center;
+    text-align: center;
+
+}
+
+.rot {
+    Color: rgb(252, 54, 54)
+}
+
+.orange {
+    color: rgb(250, 83, 5);
+}
+
+.margin {
+    margin-top: 100px;
+}
+
+.box {
+    max-width: 700px;
+    margin: 30px auto;
+    padding: 20px;
+    background: rgba(255,255,255,0.05);
+    border-radius: 16px;
+    box-shadow: 0 4px 20px rgba(0,0,0,0.3);
+    align-items: center;
+}
+
+
+footer {
+    margin-bottom: 0%;
+}
+
+
